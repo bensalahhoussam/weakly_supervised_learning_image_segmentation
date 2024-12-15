@@ -22,7 +22,7 @@ In order to annotate more data  without taking too much time , the method will b
 
 1- train a fully supervised model with large labeled data in order to make the model understand the features of each class .
 
-2- use a transfer learning method to transfer the knowledge with the help of a point label the model will be able to identify the object with less amount of information. 
+2- use a transfer learning method to transfer the knowledge with the help of a point label the model will be able to identify the object with less amount of information, also modifiying loss function to accept points label. 
 
 
 
@@ -32,6 +32,10 @@ In order to annotate more data  without taking too much time , the method will b
 We choose a remote sensing dataset named UAVID dataset.
 It contains 8 classes which are  “Building,Road,Static car,Tree,Low vegetation,Human,
 Moving car,Background clutter“.
+
+| col 1      | col 2      | col 3  | 
+|------------|-------------|-------------|
+| https://github.com/bensalahhoussam/weakly_supervised_learning_image_segmentation/blob/34d2a7b8f77b83c665fe31a0a1254ad17ca933d9/images/img_2.png | image 2 |image 3 |
 
 link to dataset https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1
 
