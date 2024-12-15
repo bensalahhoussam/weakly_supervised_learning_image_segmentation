@@ -7,6 +7,7 @@ To address this problem , there is a method called weakly semi-supervised learni
 
 The main idea is to first train the model on labeled data , then use the trained model to predict on unlabeled data (Transfer learning method) , thus creating pseudo-labels,and will have more labeled data and continue doing that until the mode converges to higher performance.
 
+![image alt](https://github.com/bensalahhoussam/weakly_supervised_learning_image_segmentation/blob/23507110928d1cdbbd0239f802389d7aa181aad3/images/img_1.png)
 
 # Problem description 
 
