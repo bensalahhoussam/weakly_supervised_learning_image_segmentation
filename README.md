@@ -23,6 +23,9 @@ In order to annotate more data  without taking too much time , the method will b
 
 2- use a transfer learning method to transfer the knowledge with the help of a point label the model will be able to identify the object with less amount of information . 
 
+                                     ![image](https://github.com/user-attachments/assets/8c565bea-f197-4059-bee3-4cb6e9ca01b0)
+
+
 # Dataset 
 
 We choose a remote sensing dataset named UAVID dataset.
