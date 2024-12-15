@@ -35,7 +35,7 @@ Moving car,Background clutter“.
 
 | col 1      | col 2      | col 3  | 
 |------------|-------------|-------------|
-| ![image](https://github.com/user-attachments/assets/a9751804-dd4a-4e45-ad4e-c41b1d075791)| image 2 |image 3 |
+| https://github.com/bensalahhoussam/weakly_supervised_learning_image_segmentation/blob/main/images/img_2.png?raw=true | image 2 |image 3 |
 
 link to dataset https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1
 
