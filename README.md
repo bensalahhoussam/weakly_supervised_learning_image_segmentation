@@ -33,9 +33,6 @@ We choose a remote sensing dataset named UAVID dataset.
 It contains 8 classes which are  “Building,Road,Static car,Tree,Low vegetation,Human,
 Moving car,Background clutter“.
 
-| col 1      | col 2      | col 3  | 
-|------------|-------------|-------------|
-| ![image](https://github.com/user-attachments/assets/23fc968e-7e2f-48d7-8a82-5aa687c4ef0b)| image 2 |image 3 |
 
 link to dataset https://www.kaggle.com/datasets/dasmehdixtr/uavid-v1
 
