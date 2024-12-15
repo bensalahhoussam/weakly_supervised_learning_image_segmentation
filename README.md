@@ -15,13 +15,15 @@ The problem is an image segmentation for multi class , it classifies each pixel 
 
 In order to annotate more data  without taking too much time , the method will be based on annotating points , and based on that , the model should be able to identify the selected class by that specific points .
 
+![image alt](https://github.com/bensalahhoussam/weakly_supervised_learning_image_segmentation/blob/5541ff330fedb6d5b5adeb143a2bf3c1873d2241/images/img.png)
+
+
 # Problem solution
 
 1- train a fully supervised model with large labeled data in order to make the model understand the features of each class .
 
 2- use a transfer learning method to transfer the knowledge with the help of a point label the model will be able to identify the object with less amount of information. 
 
-![image alt](https://github.com/bensalahhoussam/weakly_supervised_learning_image_segmentation/blob/5541ff330fedb6d5b5adeb143a2bf3c1873d2241/images/img.png)
 
 
 
